@@ -11,7 +11,7 @@
  <img align="center" alt="code" height="200em" width="200em" src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47cs9su3isl3aaaq9o450jb53izlf3xdoz03jkk733&rid=giphy.gif&ct=g">
 <!-- <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiralecca&layout=compact&langs_count=7&theme=omni"/> -->
 </div>
-
+<br><br>
 <div style="display: inline_block">
  <span>My focuses and interests:</span>
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
