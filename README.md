@@ -4,7 +4,7 @@
 
 ###
 
-<img align="left" height="150" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif"  />
+<img align="center" clear="both" height="150" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif"  />
 
 ###
 
@@ -63,7 +63,7 @@
 
 ###
 
-<img align="left" height="150" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif"  />
+<!-- <img align="left" height="150" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif"  /> -->
 
 ###
 
