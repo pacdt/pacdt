@@ -4,7 +4,7 @@
 
 ###
 
-<img align="center"  height="150" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif"  />
+<!-- <img align="center"  height="150" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif"  /> -->
 
 ###
 
