@@ -61,6 +61,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/pacdt/pacdt/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
